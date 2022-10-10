@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Indie+Flower&display=swap');
+header {text-align: center}
+body {margin: auto; padding: 50px; background-color: #FFFEE1; font-family: 'Indie Flower', cursive;}
+h2 {background-color: White; border-style: solid; border-color: Black; border-width: 5px; font-family: monospace;}
+footer h3 {background-color: Black; color: White; font-family: monospace;}
