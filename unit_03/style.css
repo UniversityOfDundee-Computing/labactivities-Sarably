@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&display=swap');
+body{background-color: #30713D; font-family: 'Fruktur', cursive;}
+main, header{background-color: #FFF4D1; text-align: center; color: #AD0000; margin: auto; width: 60%}
+.moneh{font-weight: 400; color: Black}
+nav ul{list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #222; width: 60%; align: center; margin: auto;}
+nav ul li{float: left;}
+nav li a{display: block; color: white; text-align: center; padding: 15px 45px; text-decoration: none;}
+nav li a:hover{background-color: #111;}
+.current{border-style: solid;; border-color: White; border-width: 4px;}
